@@ -8,7 +8,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class DemoApplicationTests {
 
 	@Test
-	@DisplayName("Test1")
+	@DisplayName("Testing")
 	void contextLoads() {
 	}
 
